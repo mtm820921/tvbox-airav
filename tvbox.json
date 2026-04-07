@@ -1,5 +1,5 @@
 {
-  "spider": "http://localhost:8080/csp_Airav.jar;md5;63DE4C5760434EE708A340BDD33983D2",
+  "spider": "https://raw.githubusercontent.com/mtm820921/tvbox-airav/main/csp_Airav.jar;md5;63DE4C5760434EE708A340BDD33983D2",
   "sites": [
     {
       "key": "airav",
