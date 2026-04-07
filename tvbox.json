@@ -1,0 +1,20 @@
+{
+  "spider": "http://localhost:8080/csp_Airav.jar;md5;63DE4C5760434EE708A340BDD33983D2",
+  "sites": [
+    {
+      "key": "airav",
+      "name": "Airav 影视",
+      "type": 3,
+      "api": "csp_Airav",
+      "playerType": 1,
+      "ext": ""
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "url": "",
+      "type": 0
+    }
+  ]
+}
